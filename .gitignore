@@ -1,0 +1,9 @@
+# python虚拟环境
+.venv/
+# python缓存
+__pycache__/
+# 词典文件
+*.mdx
+*.mdd
+# 日志目录
+logs/
